@@ -1,8 +1,8 @@
 class Winecord < Formula
   desc "Discord Rich Presence bridge for Wine/CrossOver games on macOS"
   homepage "https://github.com/Zard-Studios/WineCord"
-  url "https://raw.githubusercontent.com/Zard-Studios/homebrew-tap/main/releases/winecord-0.1.1-macos-universal.tar.gz"
-  sha256 "aac13693f329087a555ad9e51d1b3b00721ec3e743af938b1fc2c685d4942f20"
+  url "https://raw.githubusercontent.com/Zard-Studios/homebrew-tap/main/releases/winecord-0.1.2-macos-universal.tar.gz"
+  sha256 "a15148a43cccbab5208a26e9fc94dbaac787923bf65b1d52cbdbd2585b1adcab"
   license "MIT"
 
   def install

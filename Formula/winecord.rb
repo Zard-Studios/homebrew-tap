@@ -2,7 +2,7 @@ class Winecord < Formula
   desc "Discord Rich Presence bridge for Windows games running through Wine on macOS"
   homepage "https://github.com/Zard-Studios/WineCord"
   url "https://raw.githubusercontent.com/Zard-Studios/homebrew-tap/main/releases/winecord-0.1.13-macos-universal.tar.gz"
-  sha256 "19561238b546f14133e42ed4a3b078970c1738c93d47d8f2102d54478ae9bedd"
+  sha256 "5ce2e83154efd3fff20cd717c0e0574ed8d817c6ddebf350732e06049abc2249"
   license "MIT"
 
   def install
